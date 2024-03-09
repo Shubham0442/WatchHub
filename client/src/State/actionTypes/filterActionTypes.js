@@ -1,0 +1,4 @@
+export const UPDATE_BRAND = "UPDATE_BRAND";
+export const UPDATE_CATEGORY = "UPDATE_CATEGORY";
+export const UPDATE_GENDER = "UPDATE_GENDER";
+export const UPDATE_SORT = "UPDATE_SORT";
